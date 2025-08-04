@@ -6,3 +6,11 @@
 .db
 google-credentials.json
 .db_store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
